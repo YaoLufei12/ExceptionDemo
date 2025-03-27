@@ -24,4 +24,5 @@ public class ExceptionDemo {
         } catch (InputMismatchException e) {
         System.out.println("An exception occurred:" + e.getMessage());
     }
-}
+ }
+} 
